@@ -14,6 +14,7 @@
         <h1 class="my-4">Site Content
           <small><br>Tools & Technologies</small>
         </h1>
+        <hr>
       <!-- Project One -->
       <div class="row">
           <div class="col-md-7">
@@ -35,21 +36,21 @@
         <div class="row">
           <div class="col-md-7">
             <a href="#">
-              <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+              <img class="img-fluid rounded mb-3 mb-md-0" src="github/post-main.jpg" alt="">
             </a>
           </div>
           <div class="col-md-5">
-            <h3>Project Two</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
-            <a class="btn btn-primary" href="#">View Project</a>
+            <h3>Gitflow Workflow</h3>
+            <p><strong>Gitflow is really just an abstract idea of a Git workflow.</strong><br>Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie.</p>
+            <a class="btn btn-primary" href="gitflow/gitflow.php">View More</a>
           </div>
         </div>
         <!-- /.row -->
 
-        <hr>
+        <!-- <hr> -->
 
         <!-- Project Three -->
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-7">
             <a href="#">
               <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
@@ -60,7 +61,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, temporibus, dolores, at, praesentium ut unde repudiandae voluptatum sit ab debitis suscipit fugiat natus velit excepturi amet commodi deleniti alias possimus!</p>
             <a class="btn btn-primary" href="#">View Project</a>
           </div>
-        </div>
+        </div> -->
         <!-- /.row -->
         <hr>
 

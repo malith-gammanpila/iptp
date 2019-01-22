@@ -102,6 +102,17 @@
     </div>
     <div class="row no-gutters">
       <div class="col-lg-6">
+        <a class="portfolio-item" href="/content/tec-terms/tec.php">
+          <span class="caption">
+            <span class="caption-content">
+              <h3>99 Terms You Need To Know<br> When You’re New To Tech</h3>
+              <p class="mb-0">Sometimes a short and simple explanation is all you need to get your head around a new concept.</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-5.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
         <a class="portfolio-item" href="#">
           <span class="caption">
             <span class="caption-content">
@@ -145,6 +156,7 @@
           <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
         </a>
       </div>
+      
     </div>
   </div>
 </section>
